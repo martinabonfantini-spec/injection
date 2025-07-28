@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Mioritic Injector
+Comment=Advanced Web Injection Tool
+Exec=/workspace/launch_mioritic.sh
+Icon=applications-internet
+Terminal=false
+Categories=Network;Security;Development;
+Keywords=injection;security;vulnerability;testing;
